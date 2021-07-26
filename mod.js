@@ -26,6 +26,6 @@ export function summary() {
 	console.log('-------------------------')
 }
 
-// export default {
-// 	equal, summary
-// }
+export default {
+	equal, summary
+}
